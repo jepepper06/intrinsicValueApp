@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "build":"snowpack build",
+    "start": "snowpack start"
+  },
   "devDependencies": {
     "@snowpack/plugin-postcss": "^1.4.3",
     "postcss": "^8.4.23",
